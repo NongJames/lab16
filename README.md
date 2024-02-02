@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:สุขัย รักสุจริต
+# STUDENT ID:660610853
